@@ -2,10 +2,11 @@
 layout: project
 type: project
 image: images/images_art_rec.jpg
-title: GEE tutorials
+title: Different spatial scales
 permalink: projects/spatial_scales
+
 # All dates must be YYYY-MM-DD format!
-date: 2021-12-01
+date: 2021-02-01
 labels:
   - Landsat-8
   - Sentinel-2
