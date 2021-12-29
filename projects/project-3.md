@@ -1,18 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/gee.jpeg
+title: GEE tutorials
+permalink: projects/gee_tutorials
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-12-01
 labels:
-  - Lisp
-  - GitHub
+  - Google Earth Engine
+  - JavaScript
+  - Jupyter Notebook
+  - Python
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/gee.jpeg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
