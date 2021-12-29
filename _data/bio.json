@@ -56,35 +56,31 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R",
+        "Python",
+        "Javascript"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Softwares",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "QGIS",
+        "ArcMap",
+        "ArcGIS Pro",
+        "SAGA GIS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of São Paulo, Piracicaba-SP, Brazil",
+      "area": "Soil and Plant Nutrition (expected graduation February, 2022)",
+      "studyType": "PhD",
+      "startDate": "2018-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
