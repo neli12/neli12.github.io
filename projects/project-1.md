@@ -15,7 +15,7 @@ summary: Digital mapping of soil properties in São Paulo using bare soil images
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/RSE_image_flow.png">
+  <img class="ui image" src="../images/RSE_image_flow.jpg">
   <img class="ui image" src="../images/RSE_image_rec.jpg">
 </div>
 
