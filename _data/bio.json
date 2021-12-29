@@ -1,57 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "name": "Nélida Silvero",
+    "label": "PhD",
+    "picture": "https://neli12.github.io/images/perfil.jpg",
+    "email": "neliquinhonez92@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://neli12.github.io",
+    "summary": "I am a soil scientist, finishing my PhD at the University of São Paulo, in Brazil. I am also a visiting Scholar at Iowa State University, in the United States.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "50010",
+      "city": "Ames",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Iowa"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "neli12",
+        "url": "http://github.com/neli12"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "nsilvero",
+        "url": "http://linkedin.com/in/nsilvero"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "neli.silvero",
+        "url": "http://instagram.com/neli.silvero"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "soil science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "remote sensing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "GIS",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data science",
       "keywords": [
       ]
     }
