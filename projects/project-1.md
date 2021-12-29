@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/RSE_image_rec.jpeg
+image: images/RSE_image_rec.jpg
 title: Soil mapping using bare soil images
 permalink: projects/soil_mapping
 # All dates must be YYYY-MM-DD format!
