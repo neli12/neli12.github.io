@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/quantumBlack.png
+title: My first Datathon
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-11-20
 labels:
   - Javascript
   - Meteor
