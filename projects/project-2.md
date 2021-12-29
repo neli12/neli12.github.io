@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/quantumBlack.png
+image: images/quantumBlack.jpeg
 title: My first Datathon
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
