@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gee_int.jpeg
+image: images/gee.jpeg
 title: GEE tutorials
 permalink: projects/gee_tutorials
 # All dates must be YYYY-MM-DD format!
