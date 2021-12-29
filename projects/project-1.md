@@ -16,28 +16,18 @@ summary: Digital mapping of soil properties in São Paulo using bare soil images
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/RSE_image_flow.jpg">
+  
+  
   <img class="ui image" src="../images/RSE_image_rec.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This is one of the project of my PhD research. In this work, I aimed to map soil properties (clay content, organic matter, soil color, etc.) using bare soil images of Landsat-8 and Sentinel-2 satellites. For those who are new to this topic or do not understand, the process of digital soil mapping basically consists in applying machine learning algorithms (in my case I used the Cubist) and use the satellites' spectral bands as predictors. In ML terms, this is a supervised learning procedure, where I have a set of training samples with the values of each soil property (each sample have spatial coordinates) and the values of each spectral band.  
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I found that, surprisingly, Landsat-8 were better than Sentinel-2 images for mapping topsoil properties in São Paulo. I said surprisingly because my hyphotesis was that Sentinel-2, with better spatial, spectral and temporal resolutions (that is small pixel size, more spectral bands and a high frequency of revisit) would show better results. But that was not the case... Science always surprise us! However, when combined, both images provided better results than separately, lossing detail in terms of spatial resolution because the Sentinel-2 needed to be resampled to 30 meters to fit the spatial resolution of the Landsat-8 image. 
 
-Here is some code that illustrates how we read values from the line sensors:
+What are my main conclusion from this research? Well, first of all, bare soil images are powerful tools for soil mapping. Second, the combination of images from different satellites will definitely provide better results when aiming to decipher the spatial patterns of soil in tropical regions.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Code: https://github.com/neli12/soilmapping
 
 
 
