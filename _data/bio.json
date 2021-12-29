@@ -77,7 +77,7 @@
   ],
   "education": [
     {
-      "institution": "University of São Paulo, Piracicaba-SP, Brazil",
+      "institution": "University of São Paulo (Esalq/USP), Piracicaba-SP, Brazil",
       "area": "Soil and Plant Nutrition (expected graduation February, 2022)",
       "studyType": "PhD",
       "startDate": "2018-08-01",
@@ -89,15 +89,21 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Geotechnologies in Soil Science Group - Esalq/USP",
+      "position": "Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Team member",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Use of QGIS, ArcGIS, SAGA GIS for soil mapping",
+        "Work with Google Earth Engine for global mapping",
+        "Use of R and Python with ML approaches",
+        "Write research proposal (Portuguese – English)",
+        "Assist in organization of courses and conferences",
+        "Co-advise young scientists",
+        "Manage teams",
+        "Teach in short courses"
       ]
     },
     {
