@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gee.jpeg
+image: images/gee_int.jpeg
 title: GEE tutorials
 permalink: projects/gee_tutorials
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/gee.jpeg">
+<img class="ui image" src="{{ site.baseurl }}/images/gee_int.jpeg">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
