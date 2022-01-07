@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wids_2.PNG
+image: images/WIDS_1.png
 title: WIDS Datathon 2022
 permalink: projects/wids-datathon
 
