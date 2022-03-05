@@ -2,18 +2,18 @@
 layout: project
 type: project
 image: images/WIDS_1.png
-title: WIDS Datathon 2022
+title: Estimating the abundance of soil minerals
 permalink: projects/wids-datathon
 
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-06
+date: 2022-03-05
 labels:
-  - climate change
-  - data science
-  - energy efficiency
-  - python
-  - jupyterlab
-summary: My participation in the WIDS Datathon 2022
+  - digital soil mapping
+  - machine learning
+  - iron oxides
+  - spectroscopy
+  - R software
+summary: Do you know that it is possible to estimate the abundance of specific soil minerals in the soil using soil spectroscopy?
 ---
 
 
