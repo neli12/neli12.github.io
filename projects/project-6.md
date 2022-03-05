@@ -29,3 +29,6 @@ And why we are interested in estimating these minerals in the soil? Because they
 I hope you enjoy learning about this!  
 
 Code: <a href="https://github.com/neli12/minerals_by_spectra"><i class="large github icon"></i>minerals_by_spectra</a>
+
+
+
