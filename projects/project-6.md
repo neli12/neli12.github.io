@@ -26,6 +26,6 @@ Generally speaking, which help us to know how much of a specific mineral we have
 This is the second derivative of the Kubelka-Munk, which is used to enhance a specific absorption feature. This procedure helps to measure how big or small is the absorption feature, which is used to estimate the relative abundance of specific minerals. This tutorial was given to a group of students from Tel Aviv university. In the code source of my github you will found a detailed tutorial in PDF, the scripts and all datasets needed to estimate the relative abundances of minerals in the soil, in this case, hematite and goethita. 
 And why we are interested in estimating these minerals in the soil? Because they play a key role in several processes that affect soil fertility, carbon sequestration, organic matter turnover, soil mineralogy, physical quality, etc. Knowing which minerals are present in the soil becomes important because it can help us in having a better understanding of how the soil might behave in these specific processes. 
 
-I hope you enjoy learning about this!
+I hope you enjoy learning about this!  
 
 Code: <a href="https://github.com/neli12/minerals_by_spectra"><i class="large github icon"></i>minerals_by_spectra</a>
