@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mineral.jpeg
 title: Estimating the abundance of soil minerals
-permalink: projects/wids-datathon
+permalink: projects/minerals
 
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-05
