@@ -13,7 +13,6 @@ labels:
   - iron oxides
   - spectroscopy
   - R software
-
 summary: Do you know that it is possible to estimate the abundance of specific soil minerals in the soil using soil spectroscopy?
 ---
 
