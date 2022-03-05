@@ -20,6 +20,6 @@ Soil mineralogy is one of the soil properties that is poorly analyzed in soils. 
 Generally speaking, which help us to know how much of a specific mineral we have in the soil is the absorption feature observed in spectral curves at specific wavelenghts.
 
 
-You can find the code source, references and tutorials in the following link: <a href="https://github.com/neli12/minerals_by_spectra"><i class="large github icon">minerals_by_spectra</i></a>
+Code: <a href="https://github.com/neli12/minerals_by_spectra"><i class="large github icon">minerals_by_spectra</i></a>
 
 
