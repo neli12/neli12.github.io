@@ -13,7 +13,7 @@ labels:
   - yield
   - sugarcane
   - python
-summary: 
+summary: Getting insights of the temporal variability of sugarcane over a period of five years by municipalities in the State of São Paulo
 ---
 
 In this repository you'll find processing techniques used for working with spatial data. I am focusing on basic techniques such as merging, clipping, extracting centrodis, etc.  
