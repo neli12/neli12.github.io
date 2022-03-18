@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Capture.png
-title: Geospatial analysis in python
+title: Temporal analysis of sugarcane yield
 permalink: projects/geospatial_python
 
 # All dates must be YYYY-MM-DD format!
@@ -10,21 +10,23 @@ date: 2022-03-18
 labels:
   - geoprocessing
   - spatial analysis
-  - merge
+  - yield
+  - sugarcane
   - python
-summary: Geospatial python
+summary: 
 ---
 
-Soil mineralogy is one of the soil properties that is poorly analyzed in soils. The main reasons for this are the need of time-consuming field sampling and expensive chemical reactants, which prevent their inclusion in traditional laboratory analysis. Fortunately, soil spectroscopy can help us with that.  
-Generally speaking, which help us to know how much of a specific mineral we have in the soil is the absorption feature observed in spectral curves at specific wavelenghts. Take a look at the image shown below.  
+In this repository you'll find processing techniques used for working with spatial data. I am focusing on basic techniques such as merging, clipping, extracting centrodis, etc.  
+This project involve the first basic steps I am following to build the dataset I'll use in my TCC of the MBA in Data Science and Analytics from the University of São Paulo. These steps consist in downloading historical yield data from the CONAB website (this step will not be described here, as it doesn't involve coding), dowloading the environmental covariates (climate, soil, geology) and the processing to manage these datasets. The first preprocessing explained here are the merging of dataframes with shapefile (see the figure below), clipping of large raster stacks and extracting centroids to work with point data.  
+
+Because we don't have sugarcane yield data at the pixel level but instead just by counties, I'll be working with municipalities, as shown in the figure below. This is the product of using the "merge" coding, described in this repository.
 
 
 <img class="ui image" src="https://github.com/neli12/screenshots-figures/blob/main/Capture.PNG?raw=true" width="700"></div>
 
 
-This is the second derivative of the Kubelka-Munk, which is used to enhance a specific absorption feature. This procedure helps to measure how big or small is the absorption feature, which is used to estimate the relative abundance of specific minerals. This tutorial was given to a group of students from Tel Aviv university. In the code source of my github you will found a detailed tutorial in PDF, the scripts and all datasets needed to estimate the relative abundances of minerals in the soil, in this case, hematite and goethite.  
+This is an ongoing projects, therefore weekly updates will come.
 
-And why we are interested in estimating these minerals in the soil? Because they play a key role in several processes that affect soil fertility, carbon sequestration, organic matter turnover, soil mineralogy, physical quality, etc. Knowing which minerals are present in the soil becomes important because it can help us in having a better understanding of how the soil might behave in these specific processes. 
 
 I hope you enjoy learning about this!  
 
