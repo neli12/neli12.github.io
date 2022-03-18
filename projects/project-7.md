@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/mineral.jpeg
-title: Estimating the abundance of soil minerals
-permalink: projects/minerals
+image: images/Capture.png
+title: Geospatial analysis in python
+permalink: projects/geospatial_python
 
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-18
