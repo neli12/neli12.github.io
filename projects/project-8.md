@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capture.png
+image: images/CaptureIII.png
 title: Predicting soil clay content using satellite images
 permalink: projects/DSM-clay-content
 
