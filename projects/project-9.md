@@ -46,3 +46,7 @@ For an in-depth explanation, check out htis [video](https://www.youtube.com/watc
 
 
 Code: <a href="https://github.com/neli12/machine-learning-R/tree/main/factor-analysis"><i class="large github icon"></i>machine-learning-R/factor-analysis</a>
+
+
+Disclaimer: This example was adapted from R code examples provided by the University of São Paulo and PECEGE in the MBA in Data Science and Analytics during the classes of PCA and factor analysis taught by Prof. Rafael de Freitas Souza.
+
