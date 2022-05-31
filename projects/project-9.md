@@ -43,5 +43,4 @@ And this is all for today. I hope you enjoy learning about this!
 
 Check out this [youtube video](https://www.youtube.com/watch?v=WV_jcaDBZ2I) for an introduction to factor analysis.  
 
-Code: <a href="https://github.com/neli12/machine-learning-R"><i class="large github icon"></i>factor-analysis</a>
-
+Code: <a href="https://github.com/neli12/machine-learning-R/tree/main/factor-analysis"><i class="large github icon"></i>machine-learning-R/factor-analysis</a>
