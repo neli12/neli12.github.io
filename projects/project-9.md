@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/newplot.PNG
+image: images/newplot.png
 title: Creating a ranking considering soil variables in factor analysis
 permalink: projects/machine-learning-R
 
