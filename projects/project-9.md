@@ -20,7 +20,10 @@ Hey there! In this project I tried to understand how principal component analysi
 
 In this example, I used six soil properties: soil organic carbon (g/kg), clay and sand content (g/kg), nitrogen (cg/kg), cation exchange capacity (CEC, cmolc/kg), and ph (adimensional, which can vary between 0 and 14). These soil properties were retrieved from [soilgrids](https://soilgrids.org/), which is a platform where you can find soil maps for all  over the world, maintained by ISRIC from Wageningen University. These soil maps were downloaded from the Google Earth Engine platform, after average over six depths. The javascript code can be found [here](https://github.com/neli12/machine-learning-R/blob/main/factor-analysis/download_soilgrids_gee.js).  
 
-After the soil variables were obtained, an average 
+After the soil variables were obtained, an average for each county was calculated with the zonal statistics in QGIS. These averages where then used to run PCA first, and then to calculate the factor loadings used to build the ranking. But the first thing to explore is the relationship between the soil properties. With the corrplot shown in the figure below, you can see that all variables have some kind of positive or negative correlation.  
+
+<img class="ui medium right floated rounded image" src="../images/corrplot.jpeg">
+
 
 
 I hope you enjoy learning about this!  
