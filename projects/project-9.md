@@ -22,6 +22,7 @@ summary: Obtaining a ranking of values for each county in São Paulo State using
 I hope you enjoy learning about this!  
 
 
-Check out this [youtube video](https://www.youtube.com/watch?v=WV_jcaDBZ2I) for an introduction to factor analysis: 
+Check out this [youtube video](https://www.youtube.com/watch?v=WV_jcaDBZ2I) for an introduction to factor analysis.  
+
 Code: <a href="https://github.com/neli12/machine-learning-R"><i class="large github icon"></i>machine-learning-R</a>
 
