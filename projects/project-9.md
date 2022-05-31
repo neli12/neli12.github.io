@@ -42,5 +42,7 @@ The score of each factor is then calculated. These values are multiplied to the 
 And this is all for today. I hope you enjoy learning about this!  
 
 Check out this [youtube video](https://www.youtube.com/watch?v=WV_jcaDBZ2I) for an introduction to factor analysis.  
+For an in-depth explanation, check out htis [video](https://www.youtube.com/watch?v=E6MfpNOy5Gw).  
+
 
 Code: <a href="https://github.com/neli12/machine-learning-R/tree/main/factor-analysis"><i class="large github icon"></i>machine-learning-R/factor-analysis</a>
