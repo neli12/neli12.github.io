@@ -26,7 +26,7 @@ After the soil variables were obtained, an average for each county was calculate
 
 The PCA was run and we found that the first PC explained 71% of the variance of the soil properties. With the second PC, we had an explanation of 90%. Very good, isn't? Indeed. The positive or negative contribution of each soil property to each PC can be observed below.  
 
-<img class="ui image" src="../images/newplot.PNG"></div>
+<img class="ui image" src="../images/newplot.png"></div>
 
 
 I hope you enjoy learning about this!  
