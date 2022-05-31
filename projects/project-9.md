@@ -22,8 +22,7 @@ In this example, I used six soil properties: soil organic carbon (g/kg), clay an
 
 After the soil variables were obtained, an average for each county was calculated with the zonal statistics in QGIS. These averages where then used to run PCA first, and then to calculate the factor loadings used to build the ranking. But the first thing to explore is the relationship between the soil properties. With the corrplot shown in the figure below, you can see that all variables have some kind of positive or negative correlation.  
 
-<img class="ui medium right floated rounded image" src="../images/corrplot.jpeg">
-
+<img class="ui image" src="../images/corrplot.jpeg">
 
 
 I hope you enjoy learning about this!  
