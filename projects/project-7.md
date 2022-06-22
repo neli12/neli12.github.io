@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Capture.png
 title: Temporal analysis of sugarcane yield
-permalink: projects/yield_analysis
+permalink: projects/geospatial_python
 
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-18
