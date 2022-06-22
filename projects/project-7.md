@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Capture.png
 title: Temporal analysis of sugarcane yield
-permalink: projects/geospatial_python
+permalink: projects/yield_analysis
 
 # All dates must be YYYY-MM-DD format!
 date: 2022-03-18
@@ -30,5 +30,6 @@ I hope you enjoy learning about this!
 
 
 Code: <a href="https://github.com/neli12/geospatial_python"><i class="large github icon"></i>geospatial_python</a>
+Code: <a href="https://github.com/neli12/time-series-productivity-sp"><i class="large github icon"></i>time-series-productivity-sp</a>
 
 
