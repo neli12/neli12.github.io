@@ -16,18 +16,15 @@ labels:
 summary: Getting insights of the temporal variability of sugarcane over a period of five years by municipalities in the State of São Paulo
 ---
 
-In this repository you'll find processing techniques used for working with spatial data. I am focusing on basic techniques such as merging, clipping, extracting centrodis, etc.  
-This project involve the first basic steps I am following to build the dataset I'll use in my TCC of the MBA in Data Science and Analytics from the University of São Paulo. These steps consist in downloading historical yield data from the CONAB website (this step will not be described here, as it doesn't involve coding), dowloading the environmental covariates (climate, soil, geology) and the processing to manage these datasets. The first preprocessing explained here are the merging of dataframes with shapefile (see the figure below), clipping of large raster stacks and extracting centroids to work with point data.  
-
-Because we don't have sugarcane yield data at the pixel level but instead just by counties, I'll be working with municipalities, as shown in the figure below. This is the product of using the "merge" coding, described in this repository.
+This project involve the first basic steps I am following to build the dataset I'll use in my TCC of the MBA in Data Science and Analytics from the University of São Paulo. These steps consist in downloading historical yield data from the CONAB website (this step will not be described here, as it doesn't involve coding), dowloading the environmental covariates (climate, soil, geology) and the processing to manage these datasets. Because we don't have sugarcane yield data at the pixel level but instead just by counties, I'll be working with municipalities, as shown in the figure below. The first steps consisted in gathering all the necessary data. Yield, productivity and planted area were retrieved from the SIDRA platform of IBGE (Instituto Brasileiro de Geografia e Estatística). Climatic and remote sensing variables were obtained and processed in the Google Earth Engine platform. TERRACLIMATE was used to obtain soil moisture, minimum and maximum temperature, precipitation and evapotranspiration. Land surface temperature (LST) and the Nomalized Difference Vegetation Index (NDVI) were obtained from MODIS (Moderate Resolution Imaging Spectroradiometer), which has daily data that were averaged for each year. The scripts used for gathering and pre-processing the data is described in pre-processing folder.
 
 
 <img class="ui image" src="https://github.com/neli12/screenshots-figures/blob/main/Capture.PNG?raw=true" width="700"></div>
 
 
-This is an ongoing projects, therefore weekly updates will come.
+After analyzing some data, I came with the figure below, which displays the average and standard deviation of sugarcane yield over the years (20) years.
 
-
+<img class="ui image" src= "https://github.com/neli12/time-series-productivity-sp/blob/main/plot_average_st_yield_ii.png?raw=true" width="700">
 I hope you enjoy learning about this!  
 
 
