@@ -81,7 +81,7 @@
       "area": "Soil and Plant Nutrition (expected graduation February, 2022)",
       "studyType": "PhD",
       "startDate": "2018-08-01",
-      "endDate": "Present",
+      "endDate": "2022-02-03",
       "gpa": "",
       "courses": [
       ]
@@ -111,7 +111,7 @@
       "position": "Visiting Scholar",
       "website": "",
       "startDate": "2021-08-01",
-      "endDate": "Present",
+      "endDate": "2022-01-31",
       "summary": "",
       "highlights": [
         "Work with ArcGIS Pro, QGIS and SAGA GIS for soil mapping",
@@ -136,8 +136,14 @@
   ],
   "awards": [
     {
+      "title": "GeoCIS award",
+      "date": "2022-02-03",
+      "awarder": "GeoCIS group/ESALQ-USP",
+      "summary": "For her outstanding contributions to the research group GeoCIS."
+    },
+    {
       "title": "PhD Studenship",
-      "date": "2016-Present",
+      "date": "2016-2022",
       "awarder": "BECAL-Paraguay",
       "summary": "Scholarships awarded to young professionals to continue their post-graduate studies abroad in one of the 300 best universities of the world."
     },
