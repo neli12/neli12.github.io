@@ -29,7 +29,7 @@ I hope you enjoy learning about this!
 
 
 
-Code: <a href="https://github.com/neli12/geospatial_python"><i class="large github icon"></i>geospatial_python</a>
+Code: <a href="https://github.com/neli12/geospatial_python"><i class="large github icon"></i>geospatial_python</a>  
 Code: <a href="https://github.com/neli12/time-series-productivity-sp"><i class="large github icon"></i>time-series-productivity-sp</a>
 
 
