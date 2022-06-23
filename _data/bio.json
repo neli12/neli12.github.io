@@ -89,6 +89,21 @@
   ],
   "work": [
     {
+      "company": "University of Leeds",
+      "position": "Visiting Research Fellow",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "summary": "Team member",
+      "highlights": [
+        "Soil organic carbon monitoring",
+        "Geospatial analysis",
+        "Web-platoforms for MRV protocols",
+        "Soil organic carbon mapping",
+        "Remote sensing"
+      ]
+    },
+    {
       "company": "Geotechnologies in Soil Science Group - Esalq/USP",
       "position": "Research Assistant",
       "website": "",
