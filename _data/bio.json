@@ -9,10 +9,10 @@
     "summary": "Hey there! I am Nélida and recently I received my PhD in Soil Science and Plant Nutrition from the University of São Paulo, in Brazil. During my graduate years, I worked with digital soil mapping, remote sensing and soil spectroscopy. I also had the opportunity to be a Visiting Scientist at Iowa State University, in the United States, where I worked with digital mapping of drainage classes. In January 2022, I received the Newton International Fellowship from The Royal Society and I'll join the University of Leeds to work as a Researcher. There, I'll be conducting research with the main aim to understand soil carbon spatio-temporal dynamics in agricultural systems to support decision making under climate change.", 
     "location": {
       "address": "",
-      "postalCode": "13412-409",
-      "city": "Piracicaba",
-      "countryCode": "BR",
-      "region": "São Paulo"
+      "postalCode": "LS3 1JZ",
+      "city": "Leeds",
+      "countryCode": "UK",
+      "region": "Yorkshire"
     },
     "profiles": [
       {
@@ -78,7 +78,7 @@
   "education": [
     {
       "institution": "University of São Paulo (Esalq/USP), Piracicaba-SP, Brazil",
-      "area": "Soil and Plant Nutrition (expected graduation February, 2022)",
+      "area": "Soil and Plant Nutrition",
       "studyType": "PhD",
       "startDate": "2018-08-01",
       "endDate": "2022-02-03",
@@ -91,7 +91,7 @@
     {
       "company": "University of Leeds",
       "position": "Visiting Research Fellow",
-      "website": "",
+      "website": "https://environment.leeds.ac.uk/see/staff/11051/dr-nelida-silvero",
       "startDate": "2022-06-01",
       "endDate": "Present",
       "summary": "Team member",
@@ -106,7 +106,7 @@
     {
       "company": "Geotechnologies in Soil Science Group - Esalq/USP",
       "position": "Research Assistant",
-      "website": "",
+      "website": "https://esalqgeocis.wixsite.com/geocis",
       "startDate": "2018-08-01",
       "endDate": "Present",
       "summary": "Team member",
@@ -124,7 +124,7 @@
     {
       "company": "GeoSpatial Laboratory for Soil Informatics - Iowa State University",
       "position": "Visiting Scholar",
-      "website": "",
+      "website": "https://glsi.agron.iastate.edu/",
       "startDate": "2021-08-01",
       "endDate": "2022-01-31",
       "summary": "",
