@@ -29,7 +29,8 @@ And why we are interested in estimating these minerals in the soil? Because they
 
 I hope you enjoy learning about this!  
 
-**References**
+**References**  
+
 FERNANDES, R.B.A., BARRÓN, V., TORRENT, J., FONTES, M.P.F., 2004. Quantificação de óxidos de ferro de latossolos brasileiros por espectroscopia de refletância difusa. Rev. Bras. Ciênc. Solo 28, 245–257.  
 Fernandes, K., Marques Júnior, J., Bahia, A.S.R. de S., Demattê, J.A.M., Ribon, A.A., 2020. Landscapescale spatial variability of kaolinite-gibbsite ratio in tropical soils detected by diffuse reflectance spectroscopy. Catena 195, 104795. https://doi.org/10.1016/j.catena.2020.104795.  
 Mendes, W. de S., Demattê, J.A.M., Bonfatti, B.R., de Resende, M.E.B., Campos, L.R., Saraiva da Costa, A.C., 2021. A novel framework to estimate soil mineralogy using soil spectroscopy. Appl. Geochemistry 127, 104909. https://doi.org/10.1016/j.apgeochem.2021.104909.  
