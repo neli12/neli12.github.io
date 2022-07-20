@@ -16,6 +16,10 @@ labels:
 summary: Obtaining a ranking of values for each county in São Paulo State using soil variables in an unsupervised problem (factor analysis by principal component analysis (PCA)).
 ---
 
+Note 1: This example was adapted from R code examples provided by the University of São Paulo and PECEGE in the MBA in Data Science and Analytics during the classes of PCA and factor analysis taught by Prof. Rafael de Freitas Souza.
+
+Note 2: This is a very simple and regional example developed with soil maps with 250m pixel size. Therefore, it might not be applicable to use at the regional, farm or local level. Better dataset should be used to improve the ranking. 
+
 Hey there! In this project I tried to understand how principal component analysis (PCA) and factor analysis can be used to develop a ranking using soil properties. As an example, I used a shapefile containing the counties of the state of São Paulo and the objective therefore was to visualize which counties have the highest score in the ranking, which probably will indicate better soil conditions. As you might know, PCA and factor analysis are unsupervised machine learning techniques that are used especially to find patterns in the data, for dimensionality reduction between highly correlated variables and to create new unobserved variables (also called latent or principal components). These new variables are orthogonal and are used to explain the variance/covariance between the observed variables.  
 
 In this example, I used six soil properties: soil organic carbon (SOC, g/kg), clay and sand contents (g/kg), nitrogen (cg/kg), cation exchange capacity (CEC, cmolc/kg), and ph (adimensional, which can vary between 0 and 14). These soil properties were retrieved from [soilgrids](https://soilgrids.org/), which is a platform where you can find soil maps for all over the world, maintained by ISRIC from Wageningen University. These soil maps were downloaded from the Google Earth Engine platform, after averaged over six depths. The javascript code can be found [here](https://github.com/neli12/machine-learning-R/blob/main/factor-analysis/download_soilgrids_gee.js).  
@@ -48,5 +52,5 @@ For an in-depth explanation, check out this [video](https://www.youtube.com/watc
 Code: <a href="https://github.com/neli12/machine-learning-R/tree/main/factor-analysis"><i class="large github icon"></i>machine-learning-R/factor-analysis</a>
 
 
-Disclaimer: This example was adapted from R code examples provided by the University of São Paulo and PECEGE in the MBA in Data Science and Analytics during the classes of PCA and factor analysis taught by Prof. Rafael de Freitas Souza.
+
 
